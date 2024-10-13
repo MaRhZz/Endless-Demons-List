@@ -1,0 +1,60 @@
+{
+    "id": 57436521,
+    "name": "Dark Matter Suite",
+    "author": "Kidneyworm",
+    "creators": ["LunaticBoi"],
+    "verifier": "Kidneyworm",
+    "verification": "n/a",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Wizard of Frogs",
+            "link": "https://www.youtube.com/watch?v=cexWM8ACp1U&t",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Xanuran",
+            "link": "n/a",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SpaceLV",
+            "link": "https://medal.tv/games/requested/clips/2aYwDP2tSFAKGE?invite=cr-MSxmQnIsLEZPUl9ZT1U",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DirtBlock",
+            "link": "https://www.youtube.com/watch?v=_sxkBoUVugc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Marhz",
+            "link": "https://medal.tv/games/requested/clips/2efIv87lh8JoDx/d13370pnATOP?invite=cr-MSxBREcsMjMyNjE5OTEyLA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mathey",
+            "link": "https://youtu.be/sq3n77iR-C4",
+            "percent": 100,
+            "hz": 2.2
+        },
+        {
+            "user": "HermitCrab",
+            "link": "https://medal.tv/games/requested/clips/iJgrSQQWcr7bIWyRP/d1337NvyPFxS?invite=cr-MSxGV04sMjM3MjM5NjY5LA",
+            "percent": 100,
+            "hz": 360-540
+        },
+        {
+            "user": "Sdace",
+            "link": "n/a",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
